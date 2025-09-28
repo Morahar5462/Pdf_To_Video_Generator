@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+requests
+Pillow
+cloudinary
+pydub
+mutagen
+fitz
